@@ -85,7 +85,7 @@ The interactive Python notebooks work using a "Jupyter Server". The University o
 <!--Alternatively, if you're not a student at the University of Edinburgh, you can use Binder to interact with the notebooks on a temporary free server: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kennysmithed/simlang/master)
 -->
 
-If you're using the noteable service you'll need to download the files onto the server. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with the default standard server). Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
+If you're using the noteable service you'll need to download the files onto the server. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "standard notebook"). Once you've done that you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating. First, we need to upload the notebooks from this github site. To do that, you need to open a new notebook that you'll use to update the files regularly (whenever a new notebook is posted for example). Follow these steps:
 
 - Click on the "new" menu.
 - Select "Python 3". This will open a brand new notebook.

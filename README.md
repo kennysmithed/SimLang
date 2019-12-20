@@ -24,12 +24,19 @@ We have labs on Thursdays and Fridays, and you attend both days. For labs, the c
 | 3 | 27 Jan  | Regularisation | Regularisation lab |
 | 4 | 3 Feb | Iterated learning | Iterated learning lab |
 | 5 | 10 Feb  | Communication and the RSA model | RSA lab |
-| *Flexible learning week* | *17 Feb* | *No lecture* | *No labs* | 
+| *Flexible learning week* | *17 Feb* | *No lecture* | *No labs* |
 | 6 | 24 Feb  | Compositionality | Compositionality lab |
 | 7 | 2 Mar  | Evolution | Evolving the prior lab |
 | 8 | 9 Mar  | Hierarchical learning | Hierarchical learning lab |
 | 9 | 16 Mar  | Greenbergian universals | Greenberg lab |
 | 10 | 23 Mar  | Wrap-up lecture | *No lab* |
+
+
+### Materials
+
+Lecture 1: Introduction
+
+Lab 1: [Python intro](lab1.ipynb) (plus [Introduction to notebooks](lab1_notebook_intro.ipynb))
 
 <!--
 1. [Lecture: why simulate language? (15/01)](simlang_1_lecture.ipynb) ([slides](simlang_1_slides.pdf))
@@ -102,7 +109,7 @@ You can now click on the "simlang_local" folder in the file list in the noteable
 
 [Kenny Smith](http://lel.ed.ac.uk/~kenny/), University of Edinburgh, 2019
 
-The following files are copyright (c) 2009-2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435):
+The following files are copyright (c) 2009-2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435): lab1.ipynb, lab1_answered.ipynb, lab1_walkthrough.ipynb, lab1_notebook_intro.ipynb
 
 The following files are copyright (c) 2019 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny):
 

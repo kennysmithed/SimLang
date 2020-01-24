@@ -35,6 +35,6 @@ You can now click on the "simlang_local" folder in the file list in the noteable
 
 The following files are copyright (c) 2009-2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435): lab1.ipynb, lab1_answered.ipynb, lab1_walkthrough.ipynb, lab1_notebook_intro.ipynb
 
-The following files are copyright (c) 2020 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny), with contributions from [Simon Kirby](http://www.lel.ed.ac.uk/~simon): lab2.ipynb, lab3.ipynb
+The following files are copyright (c) 2020 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny), with contributions from [Simon Kirby](http://www.lel.ed.ac.uk/~simon): lab2.ipynb, lab2_answered.ipynb, lab3.ipynb
 
 All aspects of this work aside from the Software itself is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). For Software license, see [LICENSE file](LICENSE) for items copyright Simon Kirby, and [LICENSE file](LICENSEKS) for items copyright Kenny Smith.

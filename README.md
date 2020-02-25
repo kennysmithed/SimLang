@@ -33,7 +33,7 @@ You can now click on the "simlang_local" folder in the file list in the noteable
 
 [Kenny Smith](http://lel.ed.ac.uk/~kenny/), University of Edinburgh, 2019
 
-The following files are copyright (c) 2009-2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435): lab1.ipynb, lab1_answered.ipynb, lab1_walkthrough.ipynb, lab1_notebook_intro.ipynb
+The following files are copyright (c) 2009-2019 [**Simon Kirby**](http://www.lel.ed.ac.uk/~simon), with contributions from [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), [Jennifer Culbertson](https://jennifer-culbertson.github.io), [Andrew Smith](https://www.stir.ac.uk/people/256435): lab1.ipynb, lab1_answered.ipynb, lab1_walkthrough.ipynb, lab1_notebook_intro.ipynb, lab6.ipynb, lab6_answered.ipynb
 
 The following files are copyright (c) 2020 [**Kenny Smith**](http://www.lel.ed.ac.uk/~kenny), with contributions from [Simon Kirby](http://www.lel.ed.ac.uk/~simon): lab2.ipynb, lab2_answered.ipynb, lab3.ipynb, lab3_answered.ipynb, lab4.ipynb, lab4_answered.ipynb, lab5.ipynb, lab5_answered.ipynb
 
